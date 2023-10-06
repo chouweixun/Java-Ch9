@@ -20,7 +20,7 @@ class CRectangle
   System.out.println("height="+height+"\n");
     }
 }
-  public class Main
+  public class Class01
   {
    public static void main(String args[])
    {
