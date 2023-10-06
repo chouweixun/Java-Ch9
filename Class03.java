@@ -15,7 +15,7 @@ class Caaa  // 定義類別Caaa
     }
 }
 
-public class Main
+public class Class03
 {
     public static void main(String args[])
     {
