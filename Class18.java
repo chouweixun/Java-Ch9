@@ -1,4 +1,4 @@
-public class Main {
+public class Class18 {
     public static void main(String args[]) {// 使用匿名內部類別建立 CCircle 物件
         CCircle circle = new CCircle(5.0);
         circle.show();// 呼叫 CCircle 物件的 show() 函數顯示圓的面積
